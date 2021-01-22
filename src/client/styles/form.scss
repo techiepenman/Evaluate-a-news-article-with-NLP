@@ -1,12 +1,43 @@
 form {
-    border: 1px solid #545454;
-    border-radius: 3px;
+    border: 1px solid #02B3E4;
+    border-radius: 20px;
     padding: 40px;
 }
 
 input {
-    padding: 5px 20px;
+   
     width: 100%;
     line-height: 16px;
-    margin: 10px 0;
+    padding: 15px;
+    margin: 30px auto 30px auto;
+     font-size: 15px;
+     border-width: 0px;
+     border-color: #CCCCCC;
+     background-color: #FFFFFF;
+     color: #000000;
+     border-style: solid;
+     border-radius: 7px;
+     box-shadow: 0px 0px 3px rgba(66,66,66,.75);
+     text-shadow: -50px
+    
+}
+
+a:visited{
+    border: none;
+}
+.sub-btn {
+cursor: pointer;
+background-color: #2A77AA ;
+color: #FFF;
+}
+
+.sub-btn:hover {
+    background-color: #FFAE0C ;
+    color: #3E3E42;
+}
+
+.sub-btn:focus{
+    background-color: #fddb9a;
+    color: #3E3E42;
+    // outline: 0;
 }

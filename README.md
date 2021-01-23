@@ -1,8 +1,8 @@
 
 
 ## Project
-Evaluate a News Article with Natural Language Processing
-The app gets the user's input which can be an articleurl and throught an external API call runs Natural Language Processing (NLP).
+Evaluate a News Article with Natural Language Processing. 
+The app gets the user's input which can be an url of an article and throught an external API call runs Natural Language Processing (NLP).
 The text provided is analyzed to determine if it expresses a positive/negative/neutral sentiment.
 
 ## Motivation

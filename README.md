@@ -17,8 +17,8 @@ Once the key is obtained, simply create a new variable named apiKey in the index
 
 ## Run
 The app can be executed from the command line. Depends on what environment you like to run the app, the command would be as such:
-    For development mode: npm run build-dev
-    For production mode: npm run build-prod
+    - For development mode: npm run build-dev
+    - For production mode: npm run build-prod
 Then run the server:
     npm start
 Open the browser and the app is running on port 8081

@@ -26,4 +26,4 @@ The app can be executed from the command line. Depends on what environment you l
 `npm run build-prod`
 - Then run the server:  
  `npm start`
-Open the browser and the app is running on port 8081
+- Open the browser and the app is running on port 8081
